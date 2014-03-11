@@ -1,9 +1,9 @@
-Building FooCoin
+Building BethCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building BethCoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of BethCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building BethCoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of BethCoin.
